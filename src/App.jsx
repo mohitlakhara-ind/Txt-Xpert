@@ -1,8 +1,8 @@
 import "./App.css";
-import Navbar from "./components/Navbar.jsx";
-import TxtSpace from "./components/TxtSpace.jsx";
-import Alert from "./components/Alert.jsx";
-import AboutUs from "./components/AboutUs.jsx";
+import Navbar from "./Navbar.jsx";
+import TxtSpace from "./TxtSpace.jsx";
+import Alert from "./Alert.jsx";
+import AboutUs from "./AboutUs.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { useState } from "react";
 function App() {
